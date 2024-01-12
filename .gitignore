@@ -2,6 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.venv
+/djangoapp/static/
+/djangoapp/media/
+/djangoapp/project/local_settings.py
+gunicorn-error-log
+/data/ 
 
 # C extensions
 *.so
